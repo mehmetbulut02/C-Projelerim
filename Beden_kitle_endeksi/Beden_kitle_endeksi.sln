@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beden_kitle_endeksi", "Beden_kitle_endeksi\Beden_kitle_endeksi.csproj", "{0EFEED8A-1C02-49EB-9A59-726C44130C67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EFEED8A-1C02-49EB-9A59-726C44130C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EFEED8A-1C02-49EB-9A59-726C44130C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EFEED8A-1C02-49EB-9A59-726C44130C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EFEED8A-1C02-49EB-9A59-726C44130C67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39498843-5E31-44A9-BE6D-4A8064D3C8F5}
+	EndGlobalSection
+EndGlobal
