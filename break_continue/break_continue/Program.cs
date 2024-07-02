@@ -23,7 +23,7 @@ namespace break_continue
             */
             for (int i = 1; i <= 10; i++)
             {
-                if (i == 7)
+                if (i == 8)
                 {
                     continue;
                 }
